@@ -1,8 +1,5 @@
-# GourmetGuruBot
- A Telegram bot that crafts Ottolenghi-inspired recipes from pictures of ingredients sent by users, dynamically adapting the recipe based on subsequent text feedback.
-
 # Recipe Creator Bot Inspired by Ottolenghi
-A Telegram bot designed to create unique and inspiring recipes based on pictures of ingredients sent by users. Drawing inspiration from the renowned culinary style of Ottolenghi, this bot offers an inventive way to explore new recipes. Users can simply send a picture of ingredients they have, and the bot will suggest a recipe that brings out the best in those ingredients.
+ A Telegram bot that crafts Ottolenghi-inspired recipes from pictures of ingredients sent by users, dynamically adapting the recipe based on subsequent text feedback.
 
 ## Features
 - **Image Recognition**: Utilizes advanced image processing to identify ingredients in the pictures sent by users.
